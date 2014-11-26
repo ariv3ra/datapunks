@@ -32,6 +32,9 @@
     <div class="imgbanner">
         <img src="./static/draft-datapunks-bigbanner.png">
     </div>
+    <div class="txt">
+        <p>Your #hacks will never be the same</p>
+    </div>
 
     <div class="comesoon">
       <p>Coming Soon</p>

@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.imgbanner {
+  padding: 0px;
+  text-align: center;
+  background-color: black;
+}
+.comesoon {
+	padding: 20px;
+	text-align: center;
+	font-size: 32pt;
+}

@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="./static/dpunks-favcon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>datapunks -- dpunks.org</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./js/bootstrap.min.css" rel="stylesheet">

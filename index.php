@@ -4,8 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="datapunks: hacking data and producing results">
+    <meta name="author" content="datapunks">
+    <meta name="keywords" content="">
+    <meta NAME="robots" CONTENT="index, follow">
     <link rel="icon" href="./static/dpunks-favcon.ico">
 
     <title>datapunks -- dpunks.org</title>
@@ -49,7 +51,5 @@
     <script src="./js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="./js/ie10-viewport-bug-workaround.js"></script>
-  
-
 </body>
 </html>

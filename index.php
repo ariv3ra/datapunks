@@ -39,7 +39,7 @@
     </div>
 
     <div class="comesoon">
-      <p>Coming Soon</p>
+      <p>Coming Soon or maybe not</p>
     </div>
 
 
